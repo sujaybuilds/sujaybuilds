@@ -13,7 +13,7 @@
 #### *Turning search data into systems that scale*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujay-poojari-09b793256/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujaypoojary5@gmail.com)
 [![Location](https://img.shields.io/badge/Mumbai%2C%20India-🇮🇳-lightgrey?style=for-the-badge)](#)
 
 </div>
